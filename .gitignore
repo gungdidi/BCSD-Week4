@@ -1,0 +1,21 @@
+# Unity 자동 생성 폴더
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+
+# 빌드 파일
+[Bb]uild/
+[Bb]uilds/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.tmp
+
+# 기타
+MemoryCaptures/
