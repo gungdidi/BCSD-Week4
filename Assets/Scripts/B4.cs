@@ -106,6 +106,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         string condition = isBadCondition ? "나쁨" : "좋음";
         Debug.Log("용사의 상태가 나쁩니까? " + condition);
     }
+}
 
 
         //4. 키워드, int float string bool new List
